@@ -94,9 +94,9 @@ OYO activity is a creative activity to help you to integrate and apply the the p
 
 Students will separate into two (or threes) for "pair programming". These exercises may involve a series of short questions, single day projects, or multi-day projects.
 
-### Mastery Tracking
+### Grading and Performance
+We will not be assigning grades, however solution sets will be handed out regularly. You are responsible for assessment of your own performance. The instructor can offer feedback as well.
 
-We will be using Galvanize's Learning Management System (LMS) which can be found at [learn.galvanize.com](https://learn.galvanize.com).
 
 ### Participation
 
