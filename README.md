@@ -104,6 +104,9 @@ You must also show up prepared. Each person is important to the dynamic of the c
 
 Attendance is __mandatory__. You cannot get the benefit of the material simply by reading it. It is the responsibility of each student to attend all classes. If you have to miss class, due to any circumstances, please notify Jared by email ASAP. 
 
+
+Below is a tentative course schedule. The instructor reserves the right to change the schedule as necessary for maximizing learning outcomes.
+
 ----
 Course Schedule by Week and Session
 -----
