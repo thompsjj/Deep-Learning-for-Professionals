@@ -1,4 +1,4 @@
-Galvanize <\br> Evening Course <\br> Deep Learning for Professionals 
+Galvanize <br/> Evening Course <br/> Deep Learning for Professionals 
 ----
 
 ![](resources/images/dl_tweet.png)
