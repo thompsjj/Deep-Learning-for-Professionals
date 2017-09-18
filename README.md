@@ -1,5 +1,5 @@
-Galvanize <\br>
-Evening Course <\br>
+Galvanize
+Evening Course
 Deep Learning for Professionals 
 ----
 
