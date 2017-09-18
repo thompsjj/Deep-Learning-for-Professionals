@@ -112,13 +112,13 @@ Course Schedule by Week and Session
     1. Intro to Machine Learning / Neural Network Fundamentals  
     2. Training a PLR / Backpropagation
 2. Tensorflow is your friend 
-    1. Tensorflow / Keras / Binary Classification
-    2. Advanced Optimization / Build and train a MLP 
+    1. Computational Graphs/ Backpropagation 
+    2. Backpropagation / Tensorflow and Keras 
 3. Convolutional Neural Networks
-    1. Intro Automated Feature Selection / Fundamentals of CNNs / Constructing a Convolutional Layer
+    1. Tensorflow and Keras / Fundamentals of CNN
     2. Build and train a CNN /  CNN Applications  
 4. CNNs and Filters
-    1. Image preprocessing / Introduction to Pipelines / Batch Normalization 
+    1. Image preprocessing / Intro to Pipelines
     2. Visualizing the learning process / Convolutional Filters for Style Representations
 5. Representations and Embedding 
     1. Dimensionality Reduction / Introduction to Autoencoders / Build a Visual Autoencoder
